@@ -12,10 +12,10 @@ The project was executed following industry-standard QA processes including **Re
 
 ## 👨‍💻 Tester Details
 
-**Name:** Jay Kumar Prajapati<br>
-**Role:** Manual QA Tester<br>
-**Testing Type:** Manual Testing<br>
-**Project Duration:** 2 Weeks
+**Name:**               Jay Kumar Prajapati<br>
+**Role:**               Manual QA Tester<br>
+**Testing Type:**       Manual Testing<br>
+**Project Duration:**   2 Weeks
 
 ---
 
